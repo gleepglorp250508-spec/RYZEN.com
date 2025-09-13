@@ -1,2 +1,1 @@
-# RYZEN.com
-my website
+this is a github repository for my website dudes
